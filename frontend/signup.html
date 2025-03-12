@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Productivity-Reminder - Sign Up</title>
+    <link rel="stylesheet" href="sign.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;500;600;700&display=swap" rel="stylesheet">
+</head>
+<body>
+    <!-- Header -->
+    <header class="header">
+        <div class="logo">
+            <div onclick="location.href='index.html'" class="top-left"> <img src="assets/logo-transparent-png.png" alt=""></div>
+        </div>
+        <nav class="nav-menu">
+        </nav>
+        <a href="signin.html" class="nav-button">Sign In</a>
+    </header>
+
+    <!-- Sign Up Form -->
+    <main class="auth-container">
+        <div class="auth-card">
+            <h1>Create Account</h1>
+            <p class="subtitle">Join Productivity-Reminder today</p>
+
+            <form id="signupForm" class="auth-form" novalidate>
+                <div class="form-group">
+                    <label for="name">Full Name</label>
+                    <input type="text" id="name" name="name" required>
+                    <span class="error-message"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="email">Email</label>
+                    <input type="email" id="email" name="email" required>
+                    <span class="error-message"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="phone_no">Phone Number</label>
+                    <input type="tel" id="phone_no" name="phone_no" required>
+                    <span class="error-message"></span>
+                </div>
+
+                <div class="form-group">
+                    <label for="password">Password</label>
+                    <div class="password-input">
+                        <input type="password" id="password" name="password" required>
+                        <button type="button" class="toggle-password">👁️</button>
+                    </div>
+                    <span class="error-message"></span>
+                </div>
+
+                <button type="submit" class="submit-btn">Create Account</button>
+            </form>
+
+            <p class="switch-auth">
+                Already have an account? <a href="signin.html">Sign In</a>
+            </p>
+        </div>
+    </main>
+
+    <script src="sign.js"></script>
+</body>
+</html>
