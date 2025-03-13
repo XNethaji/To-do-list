@@ -75,7 +75,7 @@ npm start
 ## 📱 Screenshots
 
 ### Sign up Interface
-![Sign up](assets/)
+![Sign up](Screenshot 2025-03-13 042117.png)
 
 
 
