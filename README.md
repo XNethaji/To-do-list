@@ -130,6 +130,9 @@ The application uses a MySQL database with the following main tables:
 
 ![Database Structure](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-13%20042828-ay0irBdMeOPMR0MBgyvXpG7ycLBY9d.png)
 
+
+
+
 ## 🤝 Contributing
 
 1. Fork the repository
