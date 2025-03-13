@@ -74,19 +74,44 @@ npm start
 
 ## 📱 Screenshots
 
+### Sign In Interface
+![Sign up](https://github.com/XNethaji/To-do-list/blob/main/Screenshot%202025-03-13%20042117.png)
+
 ### Sign up Interface
+The sign-up page allows new users to register by entering their details such as username, email, and password.  
+
 ![Sign up](https://github.com/XNethaji/To-do-list/blob/main/Screenshot%202025-03-13%20042159.png)
 
+### Login successful 
+Once users enter their correct credentials, they are redirected to the homepage after successful authentication.
 
+![Login successful](https://github.com/XNethaji/To-do-list/blob/main/Screenshot%202025-03-13%20042219.png)
 
+### HOMEPAGE
+This is the main dashboard where users can view their tasks. The light theme offers a bright and clean interface for better readability. 
 
+![HOMEPAGE in light theme](https://github.com/XNethaji/To-do-list/blob/main/Screenshot%202025-03-13%20042404.png)
 
+### HOMEPAGE
+For users who prefer a darker UI, the application provides a dark mode, reducing strain on the eyes and improving aesthetics.  
 
-### Light Mode Interface
-![Light Mode](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-13%20042610-T0g9PgbwQJtnvFjBXz8iGnB25sdcrg.png)
+![HOMEPAGE in dark theme](https://github.com/XNethaji/To-do-list/blob/main/Screenshot%202025-03-13%20042421.png)
 
-### Task Creation
-![Add Task](https://hebbkx1anhila5yf.public.blob.vercel-storage.com/Screenshot%202025-03-13%20042537-7M3asZcGrLWrmwoa1y6p8JW1EOLzd4.png)
+### NEW TASK
+Users can add new tasks by entering a task name and optional description. Clicking the "Add Task" button saves the task to the database.  
+
+![Add a new task](https://github.com/XNethaji/To-do-list/blob/main/Screenshot%202025-03-13%20042537.png)
+
+### TASK ADDED
+After adding a task, it appears in the task list with options to mark it as completed, edit, or delete.  
+
+![New task added](https://github.com/XNethaji/To-do-list/blob/main/Screenshot%202025-03-13%20042553.png)
+
+### EDIT AND DELETE 
+Users can edit existing tasks to update their content or delete them when they are no longer needed.  
+
+![](https://github.com/XNethaji/To-do-list/blob/main/Screenshot%202025-03-13%20042421.png)
+
 
 ## 🔒 Security Features
 
@@ -120,7 +145,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## 🙏 Acknowledgments
 
 - Icons by [Lucide Icons](https://lucide.dev)
-- Color palette inspiration from [Tailwind CSS](https://tailwindcss.com)
+- Color palette inspiration from [CSS](https://tailwindcss.com)
 - UI/UX best practices from [Material Design](https://material.io)
 
 ---
