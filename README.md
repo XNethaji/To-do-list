@@ -75,7 +75,7 @@ npm start
 ## 📱 Screenshots
 
 ### Sign up Interface
-![Sign up](Screenshot 2025-03-13 042117.png)
+![Sign up](https://github.com/XNethaji/To-do-list/blob/main/Screenshot%202025-03-13%20042159.png)
 
 
 
