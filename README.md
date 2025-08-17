@@ -16,13 +16,13 @@ A modern, **feature-rich task management application** with a beautiful UI, secu
 - Encrypted passwords with **bcrypt**
 
   
-### Task Management
-- ✅ Create, edit, and delete tasks
-- 📅 Due date tracking
-- ⭐ Mark tasks as important
-- 🏷️ Categorize tasks
-- 🔍 Search functionality
-- 📊 Progress tracking
+### ✅ Task Management  
+- Create, edit, and delete tasks  
+- Due date tracking & reminders  
+- Mark tasks as **important** ⭐  
+- Categorize tasks with labels 🏷️  
+- Quick **search functionality** 🔍  
+- Track task progress 📊  
 
 ### User Interface
 - 🌓 Dark/Light mode toggle
