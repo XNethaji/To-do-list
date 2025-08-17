@@ -24,11 +24,12 @@ A modern, **feature-rich task management application** with a beautiful UI, secu
 - Quick **search functionality** 🔍  
 - Track task progress 📊  
 
-### User Interface
-- 🌓 Dark/Light mode toggle
-- 📱 Responsive design
-- 🎯 Clean and intuitive interface
-- ⚡ Real-time updates
+
+### 🎨 User Interface  
+- Dark 🌙 / Light ☀️ mode toggle  
+- Fully **responsive design** for mobile & desktop  
+- Clean, minimal, and **intuitive interface**  
+- Real-time updates ⚡ 
 
 
 ## 🚀 Getting Started
