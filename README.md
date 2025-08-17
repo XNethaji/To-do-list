@@ -9,13 +9,13 @@ A modern, **feature-rich task management application** with a beautiful UI, secu
 
 ## 🌟 Features
 
-### Authentication & User Management
-- 🔐 Secure user authentication
-- 👤 Personal user profiles
-- 📱 Mobile number verification
-- 🔑 Password encryption
+### 🔐 Authentication & User Management  
+- Secure **JWT-based authentication**  
+- Personal **user profiles**  
+- Mobile number verification  
+- Encrypted passwords with **bcrypt**
 
-
+  
 ### Task Management
 - ✅ Create, edit, and delete tasks
 - 📅 Due date tracking
