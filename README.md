@@ -32,12 +32,12 @@ A modern, **feature-rich task management application** with a beautiful UI, secu
 - Real-time updates ⚡ 
 
 
-## 🚀 Getting Started
+## 🚀 Getting Started  
 
-### Prerequisites
-- Node.js (v14 or higher)
-- MySQL (v8.0 or higher)
-- Modern web browser
+### 📋 Prerequisites  
+- **Node.js** (v14 or higher)  
+- **MySQL** (v8.0 or higher)  
+- Modern web browser 
 
 ### Installation
 
