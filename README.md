@@ -1,6 +1,10 @@
 # ✨ Productivity Reminder - Todo App  
 
-A modern, feature-rich task management application with a beautiful UI and robust backend.
+A modern, **feature-rich task management application** with a beautiful UI, secure authentication, and a powerful backend — designed to help you stay organized and productive.  
+
+---
+
+## 🌟 Features  
 
 
 ## 🌟 Features
